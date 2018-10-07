@@ -1,0 +1,4 @@
+name: Spigot_exporter
+version: @version@
+main: com.github.gurapomu.Spigot_exporter
+authors: [gurapomu]
